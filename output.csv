@@ -1,0 +1,5 @@
+name,department,salary,years,bonus,total_comp,level,salary_k,name_upper
+Alice,Engineering,95000,3,9500.0,104500.0,Mid,$95k,ALICE
+Bob,Marketing,72000,5,7200.0,79200.0,Senior,$72k,BOB
+Carol,Engineering,105000,7,10500.0,115500.0,Senior,$105k,CAROL
+Dave,Sales,68000,2,6800.0,74800.0,Mid,$68k,DAVE
